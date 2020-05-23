@@ -1,2 +1,2 @@
-# IIFEs- Check out on the link Inspect -> Console
+# IIFEs- Check out the link ||Inspect -> Console||
 https://aiswaryyaa.github.io/IIFEs-/
